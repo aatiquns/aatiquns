@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="/img/study-room.gif" alt="animated-gif" />
+</p>
+
 - 👋 Hi, I’m @aatiquns
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning php,javascript,database,etc
