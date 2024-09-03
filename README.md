@@ -12,7 +12,7 @@
 - ⚡ Fun fact: like some music 🎵 with other configuration audiophile 📼
 
 ## Tools that I use:
-<p align="center">
+<p align="center"  style="width:38px, height:38px">
     <img src="/img/vscode.svg"  />
     <img src="/img/html.svg"  />
     <img src="/img/css.svg"  />
