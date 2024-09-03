@@ -1,6 +1,3 @@
-<p align="center">
-  ![25aae130a27abbdd3ddee8090ed9fe4b](https://github.com/user-attachments/assets/6c4d638e-d781-459f-af57-c28b6195754a)
-</p>
 
 - 👋 Hi, I’m @aatiquns
 - 👀 I’m interested in web development
