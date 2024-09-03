@@ -1,5 +1,6 @@
-
+<center> 
 ![25aae130a27abbdd3ddee8090ed9fe4b](https://github.com/user-attachments/assets/2a95a0ef-0af9-4da4-8f34-9a057685a332)
+</center>
 
 - 👋 Hi, I’m @aatiquns
 - 👀 I’m interested in web development
