@@ -12,15 +12,15 @@
 - ⚡ Fun fact: like some music 🎵 with other configuration audiophile 📼
 
 ## Tools that I use:
-<p align="center"  style="width:38px, height:38px">
-    <img src="/img/vscode.svg"  />
-    <img src="/img/html.svg"  />
-    <img src="/img/css.svg"  />
-    <img src="/img/boostrap.svg"  />
-    <img src="/img/mysql.svg"  />
-    <img src="/img/php.png"  />
-    <img src="/img/laravel.svg"  />
-    <img src="/img/git.svg"  />
+<p align="center" >
+    <img src="/img/vscode.svg"  style="width:38px, height:38px"/>
+    <img src="/img/html.svg" style="width:38px, height:38px" />
+    <img src="/img/css.svg"  style="width:38px, height:38px"/>
+    <img src="/img/boostrap.svg"  style="width:38px, height:38px"/>
+    <img src="/img/mysql.svg"  style="width:38px, height:38px"/>
+    <img src="/img/php.png"  style="width:38px, height:38px"/>
+    <img src="/img/laravel.svg"  style="width:38px, height:38px"/>
+    <img src="/img/git.svg"  style="width:38px, height:38px"/>
 </p>
 <!---
 aatiquns/aatiquns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
