@@ -11,7 +11,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: like some music 🎵 with other configuration audiophile 📼
 
-## Tools that I use:
+<!-- ## Tools that I use:
 <p align="center" >
     <img src="/img/vscode.svg"  style="width:38px, height:38px"/>
     <img src="/img/html.svg" style="width:38px, height:38px" />
@@ -21,7 +21,7 @@
     <img src="/img/php.png"  style="width:38px, height:38px"/>
     <img src="/img/laravel.svg"  style="width:38px, height:38px"/>
     <img src="/img/git.svg"  style="width:38px, height:38px"/>
-</p>
+</p> -->
 <!---
 aatiquns/aatiquns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
