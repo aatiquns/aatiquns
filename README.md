@@ -8,7 +8,7 @@
 ---
 
 # Hello there..
-- 👋 Hi, I’m ==@aatiquns==
+- 👋 Hi, I’m <font color="green">**@aatiquns**</font>
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning php,javascript,database,etc
 - 💞️ I’m looking to collaborate on comunity can make me up to star ⭐️
