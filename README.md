@@ -7,7 +7,7 @@
 
 ---
 
-## Hello there..
+# Hello there..
 - 👋 Hi, I’m ==@aatiquns==
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning php,javascript,database,etc
@@ -16,7 +16,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: like some music 🎵 with other configuration audiophile 📼
 
-### Tools that I use:
+## Tools that I use:
 <p align="center" >
     <img src="/img/vs-code-svgrepo-com.svg"  />
     <img src="/img/html-5-svgrepo-com.svg"  />
